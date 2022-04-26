@@ -1,11 +1,12 @@
-# Serilog Lab - Forked by dotnet6-serilog-example
+# Serilog Lab 
+# Forked by: dotnet6-serilog-example
 
 This is a sample project showing Serilog configured in the default .NET 6 web application template.
 
 To show how everything fits together, the sample includes:
 
- * Support for .NET 6's `ILogger<T>` and `WebApplicationBuilder`
- * Namespace-specific logging levels to suppress noise from the framework
+ *) Support for .NET 6's `ILogger<T>` and `WebApplicationBuilder`
+ *) Namespace-specific logging levels to suppress noise from the framework
  * JSON configuration
  * Clean, themed console output
  * Local logging to a rolling file
