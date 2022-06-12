@@ -4,7 +4,7 @@ Log.Logger = new LoggerConfiguration()
     .WriteTo.Console()
     .CreateBootstrapLogger();
 
-Log.Information("Starting xxxx");
+Log.Information("Starting origin");
 
 try
 {
