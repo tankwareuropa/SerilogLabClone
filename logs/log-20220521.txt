@@ -1,0 +1,7 @@
+2022-05-21 07:50:48.249 +02:00 [INF] Now listening on: https://localhost:7139
+2022-05-21 07:50:48.365 +02:00 [INF] Now listening on: http://localhost:5272
+2022-05-21 07:50:48.387 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-21 07:50:48.390 +02:00 [INF] Hosting environment: Development
+2022-05-21 07:50:48.392 +02:00 [INF] Content root path: C:\Users\Administrator\Source\Repos\SerilogLab\
+2022-05-21 07:50:49.879 +02:00 [INF] HTTP GET / responded 200 in 231.5205 ms
+2022-05-21 07:50:50.073 +02:00 [INF] HTTP GET /favicon.ico responded 404 in 0.3227 ms
